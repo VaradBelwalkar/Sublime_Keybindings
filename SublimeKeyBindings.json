@@ -1,5 +1,4 @@
-[
-	{"keys": ["alt+1"], "command": "insert_snippet", "args": {"contents": "!"}},
+[   {"keys": ["alt+1"], "command": "insert_snippet", "args": {"contents": "!"}},
     {"keys": ["alt+2"], "command": "insert_snippet", "args": {"contents": "@"}},
     {"keys": ["alt+3"], "command": "insert_snippet", "args": {"contents": "#"}},
     {"keys": ["alt+4"], "command": "insert_snippet", "args": {"contents": "$"}},
@@ -37,7 +36,4 @@
 { "keys": ["alt+shift+l"], "command": "move", "args": {"by": "characters", "forward": true, "extend": true } },
 { "keys": ["alt+shift+k"], "command": "move", "args": {"by": "lines", "forward": true, "extend": true } },
 { "keys": ["alt+shift+i"], "command": "move", "args": {"by": "lines", "forward": false, "extend": true } }
-
-
-
 ]
